@@ -23,14 +23,6 @@ study's pipeline.
 > regression (§4.3) lives in `energy-productivity-analysis`. The table above maps
 > each study to the repository that contains its code, which is what to follow.
 
-## Contents of this repository
-
-- `paper/` — the manuscript (`reliability-premium-synthesis.md`), its compiled
-  PDF, and the build pipeline (`build-pdf.sh`, `chrome_pdf.py`, `paper.css`).
-- `outputs/` — final figures and tables referenced in the manuscript.
-- `data/` — data-access notes. Raw datasets are not redistributed; each study
-  repository documents how to obtain its sources.
-
 ## Methods note
 
 Country-level and biological-buffer (§4.3) estimates apply the relevant survey
